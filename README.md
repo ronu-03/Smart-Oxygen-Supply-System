@@ -59,8 +59,7 @@ SmartOxygenProject/
 ---
 
 ## 👩‍💻 Developed By
-
-Your Name-RONAK DR  
+Name-RONAK DR  
 Department of Artificial Intelligence and Data Science  
 Mini Project – Software Simulation 
 
@@ -72,5 +71,6 @@ FINAL FOLDER SHOULD LOOK LIKE:
     *oxygen_alert.wav.wav
     *README.md
     *demo.png
+
 
 
